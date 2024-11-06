@@ -74,6 +74,7 @@ A Retrieval Augmented Generation (RAG) chat system with a web interface that ena
 
 ## Project Structure
 
+```
 Step 3/
 ├── data/
 │ ├── chroma/ # Vector database
@@ -92,7 +93,7 @@ Step 3/
 ├── panel_app.py # Web interface
 ├── requirements.txt
 └── start.py # Application entry point
-
+```
 
 
 ## Usage
