@@ -8,6 +8,9 @@ A Retrieval Augmented Generation (RAG) chat system with a web interface that ena
 - Step 2: https://github.com/Absorber97/Vectorstores-Embedding
 - Step 3 (This Project): https://github.com/Absorber97/RAG-Chat-System
 
+- Google Slides: https://docs.google.com/presentation/d/1M6phftXYIXe3JoNBUYQaHX8w-ksWT1gSVVD-0rbM45k/edit?usp=sharing
+- Google Slides (PDF): https://drive.google.com/file/d/1jDRWnCCFaf5n-EntWYbexF-5OuvhchNj/view?usp=sharing
+
 ## Features
 
 ### Document Processing
