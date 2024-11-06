@@ -2,6 +2,8 @@
 
 A Retrieval Augmented Generation (RAG) chat system with a web interface that enables intelligent conversations with your documents. The system combines the power of large language models with local document knowledge to provide accurate, context-aware responses.
 
+![RAG Chat System](https://github.com/Absorber97/RAG-Chat-System/blob/main/assets/CleanShot%202024-11-05%20at%2020.12.48%402x.png)
+
 - Step 1: https://github.com/Absorber97/RAG-Document-Loader
 - Step 2: https://github.com/Absorber97/Vectorstores-Embedding
 - Step 3 (This Project): https://github.com/Absorber97/RAG-Chat-System
